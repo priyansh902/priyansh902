@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science student focused on backend engineering with Java<br><br>Strong hands-on experience in Spring Boot, REST APIs, JWT authentication, and MySQL<br><br>Built and deployed full-stack projects using Java backend + Flutter frontend<br><br>Comfortable with AWS (EC2), Railway, Netlify, and end-to-end deployment<br><br>Actively building real-world projects like School Management and Attendance Systems<br><br>Solid understanding of OOP, Data Structures, SQL, and system-level problem solving<br><br>Goal-driven developer aiming for backend / full-stack roles with production exposure
+Computer Science student focused on backend engineering with Java<br><br>Strong hands-on experience in Spring Boot,REST APIs, JWT authentication, and MySQL<br><br>Built and deployed full-stack projects using Java backend + Flutter frontend<br><br>Comfortable with AWS (EC2), Railway, Netlify,and end-to-end deployment<br><br>Actively building real-world projects like School Management and Attendance Systems<br><br>Solid understanding of OOP, Data Structures, SQL, and system-level problem solving<br><br>Goal-driven developer aiming for backend / full-stack roles with production exposure
 
 
 ## 🌐 Socials:
